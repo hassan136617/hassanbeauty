@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>HassanBeauty</title>
+  <style>
+    body { font-family: sans-serif; background: #f9f9f9; margin: 0; padding: 0; }
+    header { background: #ff69b4; color: white; padding: 20px; text-align: center; }
+    .product { background: white; margin: 20px; padding: 15px; border-radius: 8px; box-shadow: 0 0 5px #ccc; }
+    .product h2 { margin: 0 0 10px; }
+    .buy-btn { background: #28a745; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>فروشگاه HassanBeauty</h1>
+    <p>محصولات زیبایی با کیفیت بالا</p>
+  </header>
+  <div class="product">
+    <h2>رژ لب مات</h2>
+    <p>قیمت: 120,000 تومان</p>
+    <button class="buy-btn">خرید</button>
+  </div>
+  <div class="product">
+    <h2>کرم ضد آفتاب</h2>
+    <p>قیمت: 180,000 تومان</p>
+    <button class="buy-btn">خرید</button>
+  </div>
+</body>
+</html>
